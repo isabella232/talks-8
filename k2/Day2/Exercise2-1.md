@@ -60,7 +60,7 @@ Check by listing image tags (replace user with your username):
 gcloud container images list-tags gcr.io/dx-training/USER-podinfo
 ```
 
-_`USER`_ should be of the form “training-user-<number>”.
+_`USER`_ should be of the form `training-user-<number>`.
 
 ----
 
